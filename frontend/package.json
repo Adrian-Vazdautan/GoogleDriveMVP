@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mantine/core": "^9.1.1",
+    "@mantine/form": "^9.1.1",
+    "@mantine/hooks": "^9.1.1",
+    "@mantinex/dev-icons": "^2.0.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5"
   },
